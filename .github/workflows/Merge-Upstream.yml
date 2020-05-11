@@ -19,8 +19,8 @@ on:
       # - master
 
 # release触发
-  release:
-    types: [published]
+#  release:
+#    types: [published]
 
 jobs:
   merge:
